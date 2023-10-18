@@ -17,18 +17,22 @@ Se trabajó con el patrón de diseño MVC y amplía/profundiza los conceptos con
 
 ## Fotos del Proyecto
 
-- Marcas
+- Marcas:
 
 <p align="center"><img src="/public/imgs/catalogoMarcas_project.png" width="400" alt="foto_proyecto"></p>
 <p align="center"><img src="/public/imgs/updateMarcas_catalogo_project.png" width="400" alt="foto_proyecto"></p>
 <p align="center"><img src="/public/imgs/deleteMarcas_catalogo_project.png" width="400" alt="foto_proyecto"></p>
 <p align="center"><img src="/public/imgs/check_deleteMarcas_catalogo_project.png" width="400" alt="foto_proyecto"></p>
 
-- Categorías
+- Categorías:
 
 <p align="center"><img src="/public/imgs/catalogoCategoria_project.png" width="400" alt="foto_proyecto"></p>
 
-- Productos
+- Productos:
+
+<p align="center"><img src="/public/imgs/catalogoProductos_project.png" width="400" alt="foto_proyecto"></p>
+<p align="center"><img src="/public/imgs/updateProductos_catalogo_project.png" width="400" alt="foto_proyecto"></p>
+<p align="center"><img src="/public/imgs/deleteProductos_catalogo_project.png" width="400" alt="foto_proyecto"></p>
 
 ## Contactame
 

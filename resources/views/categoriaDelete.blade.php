@@ -14,7 +14,7 @@
 
                 <button class="btn btn-danger btn-block mt-1">Confirmar baja</button>
 
-                <a href="/marcas" class="btn btn-light btn-block mt-1">Volver a panel</a>
+                <a href="/categoria" class="btn btn-light btn-block mt-1">Volver a panel</a>
             </form>
         </div>
 

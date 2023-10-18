@@ -27,6 +27,9 @@ Se trabajó con el patrón de diseño MVC y amplía/profundiza los conceptos con
 - Categorías:
 
 <p align="center"><img src="/public/imgs/catalogoCategoria_project.png" width="400" alt="foto_proyecto"></p>
+<p align="center"><img src="/public/imgs/updateCategoria_catalogo_project.png" width="400" alt="foto_proyecto"></p>
+<p align="center"><img src="/public/imgs/deleteCategoria_catalogo_project.png" width="400" alt="foto_proyecto"></p>
+<p align="center"><img src="/public/imgs/check_deleteCategoria_catalogo_project.png" width="400" alt="foto_proyecto"></p>
 
 - Productos:
 

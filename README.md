@@ -19,12 +19,12 @@ Se trabajó con el patrón de diseño MVC y amplía/profundiza los conceptos con
 
 ### Marcas
 
-<p align="center"><img src="/public/imagenes/catalogoMarcas_project.png" width="400" alt="foto_proyecto"></p>
-<p align="center"><img src="/public/imagenes/updateMarcas_catalogo_project.png" width="400" alt="foto_proyecto"></p>
-<p align="center"><img src="/public/imagenes/deleteMarcas_catalogo_project.png" width="400" alt="foto_proyecto"></p>
-<p align="center"><img src="/public/imagenes/check_deleteMarcas_catalogo_project.png" width="400" alt="foto_proyecto"></p>
+<p align="center"><img src="/public/imgs/catalogoMarcas_project.png" width="400" alt="foto_proyecto"></p>
+<p align="center"><img src="/public/imgs/updateMarcas_catalogo_project.png" width="400" alt="foto_proyecto"></p>
+<p align="center"><img src="/public/imgs/deleteMarcas_catalogo_project.png" width="400" alt="foto_proyecto"></p>
+<p align="center"><img src="/public/imgs/check_deleteMarcas_catalogo_project.png" width="400" alt="foto_proyecto"></p>
 
-<p align="center"><img src="/public/imagenes/catalogoMarcas_project.png" width="400" alt="foto_proyecto"></p>
+<p align="center"><img src="/public/imgs/catalogoMarcas_project.png" width="400" alt="foto_proyecto"></p>
 
 ## Contactame
 
